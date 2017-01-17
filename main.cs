@@ -1,5 +1,7 @@
 /*
-                 By Smahi Amine
+               " sharing is caring "
+               any suggestion or idea is welcomed
+                  -  Amine Smahi  -
 */
 using System;
 using System.Collections.Generic;
