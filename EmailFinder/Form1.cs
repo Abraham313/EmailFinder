@@ -37,6 +37,7 @@ namespace EmailFinder
 
         private void materialRaisedButton1_Click(object sender, EventArgs e)
         {
+            textBox2.Text = "";
             string text = textBox1.Text;
                 
                 // regular expression for matching email addresses
@@ -51,7 +52,7 @@ namespace EmailFinder
                 {
                     for (int i = 0; i < matches.Count; i++)
                     {
-                        textBox2.Text = "";
+                        
                         textBox2.Text = textBox2.Text + matches[i] + System.Environment.NewLine;
                        
                     }
