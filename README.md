@@ -1,6 +1,8 @@
-# extract-email
+# Email Finder
 A simple email extractor from text given from the user , using regular expression to find matching patterns of the email (user) + "@" + "." + "domain" ,Using windows forms and beautiful material components.
 
+### Why i did it ?
+To help Big data people extracting specific information from large text that can be very difficult , but easy now with this small software
 
 ### Some ScreenShots
 
